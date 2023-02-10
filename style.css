@@ -1,0 +1,76 @@
+
+body {
+    background-color: rgba(0, 0, 0, 0.888);
+}
+
+.container {
+    display: inline-block;
+    position: relative;
+  }
+  .container p {
+    position: absolute;
+    top: 145px;
+    right: 20px;
+    font-size: 40px;
+    color: white;
+  }
+
+hr {
+    color:blue
+}
+h1 {
+    text-align: center;
+    text-shadow: 3px 5px 26px #69a845;
+    font-size: 40px;
+    font-family: Orbitron;  
+    color:rgba(43, 255, 0, 0.791)
+
+}
+pre {
+    background-color: #000000;
+    color:#ecffe2;
+    margin-left: 50px;
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: monospace;
+    white-space: pre-wrap;
+}
+.caixadecodigo {
+    display: inline-block;
+    vertical-align: top;
+}
+h2 {
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#F2E3DD;
+}
+.titulodomeio {
+    font-size: 40px;
+    color: #3c6028;
+}
+
+h3{
+    margin-right: 40px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#F2E3DD;
+}
+
+nav{
+    background-color:#7671F5;
+    padding:3px;
+    box-shadow: 16px 5px 1px 1px;
+}
+nav > a {
+    font-size: 20px;
+    color: #ffffff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    margin-left: 350px;
+}
